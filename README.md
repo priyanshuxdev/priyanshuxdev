@@ -1,5 +1,7 @@
 # 💫 About Me:
-- 👋 Hi, I’m @priyanshuxdev<br>- 👀 I’m currently interested in Web Development <br>- 🌱 I’m currently learning concepts of CSS<br>- 💞️ I’m looking to collaborate on ...<br>- 📫 How to reach me ...
+Hello guys 👋
+
+I am Priyanshu Soni, a full stack Software Engineer working around the JavaScript Ecosystem.
 
 
 # 💻 Tech Stack:
