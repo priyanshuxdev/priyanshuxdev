@@ -5,6 +5,6 @@ I am Priyanshu Soni, a full stack Software Engineer working around the JavaScrip
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=priyanshuxdev&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=priyanshuxdev&theme=material-palenight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuxdev&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
