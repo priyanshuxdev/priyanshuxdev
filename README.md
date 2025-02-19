@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hi there👋
 I am Priyanshu Soni, a full stack Software Engineer working around the JavaScript Ecosystem.
 
